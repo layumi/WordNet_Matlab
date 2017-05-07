@@ -10,9 +10,7 @@ python>> nltk.download()`
 
 2.Run the code
 
-`
-matlab>> synsets('boy');
+`matlab>> synsets('boy');
 matlab>> ans = 
 
-    ''male_child.n.01''    ''boy.n.02''    ''son.n.01''    ''boy.n.04''
-`
+    ''male_child.n.01''    ''boy.n.02''    ''son.n.01''    ''boy.n.04''`
