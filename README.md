@@ -1,5 +1,6 @@
 ## WordNet_Matlab
-A simple api for matlab to search semantic synonym
+A simple api for matlab to search semantic synonym.
+If we get a word 'boy', the code outputs a semantic similar word 'male_child', which can replace the original word.
 
 1.Download WordNet by nltk (a python package)
 

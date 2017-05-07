@@ -1,17 +1,17 @@
-## Wordnet_Matlab
-A simple api for matlab to search sematic synonym
+## WordNet_Matlab
+A simple api for matlab to search semantic synonym.
+If we get a word 'boy', we can get a semantic similar  'male_child'.
 
 1.Download WordNet by nltk (a python package)
 
 `pip install nltk` or `conda install nltk`
 
-`python>> import nltk
-python>> nltk.download()`
+`python>> import nltk`
+
+`python>> nltk.download()`
 
 2.Run the code
 
-`matlab>> synsets('boy');
->> ans = 
+`matlab>> synsets('boy');`
 
-    ''male_child.n.01''    ''boy.n.02''    ''son.n.01''    ''boy.n.04''
-`
+`matlab>> ans = ''male_child.n.01''    ''boy.n.02''    ''son.n.01''    ''boy.n.04''`
