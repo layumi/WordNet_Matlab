@@ -15,3 +15,5 @@ If we get a word 'boy', the code outputs a semantic similar word 'male_child', w
 `matlab>> synsets('boy');`
 
 `matlab>> ans = ''male_child.n.01''    ''boy.n.02''    ''son.n.01''    ''boy.n.04''`
+
+Reference: http://www.nltk.org/howto/wordnet.html
